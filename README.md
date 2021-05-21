@@ -1,2 +1,2 @@
-# Recession prediction with a comparative analysis of machine learning models
-jhjkhkj
+# Recession prediction
+using comparative analysis of machine learning models such as SVM (Support Vector Machine), Random Forest, KNN (k nearest neighbour) and MLP (Multilayer perceptron)
